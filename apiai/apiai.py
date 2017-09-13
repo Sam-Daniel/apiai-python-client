@@ -47,7 +47,6 @@ class ApiAI(object):
         Basic Usage::
             >>> ...
             >>> import apiai
-            >>> CLIENT_ACCESS_TOKEN = '26a12e4b2f1347bba375bb1deffb8fb2'
             >>> ai = apiai.ApiAI(<CLIENT_ACCESS_TOKEN>)
             >>> text_request = ai.text_request()
             >>> ...
