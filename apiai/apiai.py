@@ -27,7 +27,7 @@ except ImportError:
 
 import uuid
 
-from .requests import (
+from requests import (
     VoiceRequest,
     TextRequest,
     UserEntitiesRequest,
