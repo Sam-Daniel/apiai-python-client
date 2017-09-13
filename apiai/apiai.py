@@ -47,7 +47,7 @@ class ApiAI(object):
         Basic Usage::
             >>> ...
             >>> import apiai
-            >>> ai = apiai.ApiAI("26a12e4b2f1347bba375bb1deffb8fb2")
+            >>> ai = apiai.ApiAI"26a12e4b2f1347bba375bb1deffb8fb2"
             >>> text_request = ai.text_request()
             >>> ...
 
