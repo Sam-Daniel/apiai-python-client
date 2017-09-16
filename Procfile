@@ -1,1 +1,1 @@
-web: python apiai/apiai.py
+web: python setup.py
